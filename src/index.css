@@ -9,12 +9,12 @@ body {
   min-height: 100vh;
   justify-content: center;
   
-  height: 100vh;
-    justify-content: center;
+  
   width:100vw;
 }
 .container{
-  display: flex
+  display: flex;height: 100vh;
+  justify-content: center;
   ;background-color: #1e293b;
   height:100%;
   width:600px;
