@@ -1,0 +1,40 @@
+
+
+body {
+  background-color: black;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  
+  height: 100vh;
+    justify-content: center;
+  width:100vw;
+}
+.container{
+  display: flex
+  ;background-color: #1e293b;
+  height:100%;
+  width:600px;
+      gap: 10px;
+      flex-direction: column;
+      align-items: center;
+}
+.heading{
+  color: #f0bb03;
+  font-family: Bree serif;
+  font-size: 60px;
+}
+.paragraph{
+  color: #ffffff;
+  font-size: 23px;
+}
+
+.buttonStyles{
+  height: 35px;
+  width: 80px;
+  border-radius: 9px;
+  cursor:pointer;
+}
